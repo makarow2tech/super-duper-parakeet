@@ -1,0 +1,1 @@
+import{o as e}from"./index-Btgw34-n.js";var t=e;export{t as errorComponent};

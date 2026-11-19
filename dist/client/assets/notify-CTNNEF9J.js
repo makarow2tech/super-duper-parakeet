@@ -1,0 +1,1 @@
+import{d as e}from"./index-Btgw34-n.js";var t=({data:t})=>e.notify(t);export{t};
